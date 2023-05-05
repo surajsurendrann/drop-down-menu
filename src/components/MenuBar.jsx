@@ -31,4 +31,7 @@ const Wrapper = styled.div`
   margin: 10px 100px;
   padding: 20px 20px;
   border-radius: 5px;
+  &:hover {
+    background-color: #dbdbdb;
+  }
 `;

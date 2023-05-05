@@ -20,7 +20,7 @@ const Wrapper = styled.div`
   display: flex;
   justify-content: space-between;
   border-radius: 10px;
-  margin-top: 1px;
+  margin-top: 5px;
 `;
 
 const ButtonContainer = styled.div`
